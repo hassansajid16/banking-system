@@ -1,0 +1,10 @@
+//
+// Created by imhas on 06/07/2024.
+//
+
+#ifndef SAVINGS_ACCOUNT_CHECK_CREDENTIALS_H
+#define SAVINGS_ACCOUNT_CHECK_CREDENTIALS_H
+
+bool checkAdminCredentials();
+
+#endif //SAVINGS_ACCOUNT_CHECK_CREDENTIALS_H
